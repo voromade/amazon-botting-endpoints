@@ -2,7 +2,7 @@
   Contact <a href="https://github.com/voromade">@voromade</a>
 </h3>
 
-<h1 align="center">🫡 Private Amazon Endpoints 🫡</h1>
+<h1 align="center">🤖 Private Amazon Endpoints 🤖</h1>
 <h4 align="center">Contact on Discord, Twitter or Telegram to Purchase</h4>
 
 ## Price:
