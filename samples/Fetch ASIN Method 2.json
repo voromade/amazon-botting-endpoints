@@ -1,0 +1,152 @@
+[
+    {
+        "sortId": [
+            4217.3594
+        ],
+        "asin": "B09V62CDKX",
+        "merchantId": "A37H6AYBLM0PCO",
+        "canonicalAsin": "B0B2WX762C",
+        "quantity": 0,
+        "badgeType": "",
+        "imgURL": "https://m.media-amazon.com/images/I/41G7ExhyaGL.jpg",
+        "imgAlt": "8Bitdo Ultimate Wired Controller for Xbox Series X, Xbox Series S, Xbox One, Windows 10 & Windows 11 - Officially Licensed (Pastel Pink)",
+        "title": "8Bitdo Ultimate Wired Controller for Xbox Series X, Xbox Series S, Xbox One, Windows 10 & Windows 11 - Officially Licensed (Pastel Pink)",
+        "byLineInfoV2": "8Bitdo",
+        "priceInfo": {
+            "priceToPay": {
+                "symbol": "$",
+                "whole": "34",
+                "fraction": "99",
+                "separator": ".",
+                "displayString": "$34.99"
+            },
+            "basicPrice": {
+                "symbol": "$",
+                "whole": "44",
+                "fraction": "99",
+                "separator": ".",
+                "displayString": "$44.99"
+            },
+            "unitPrice": null,
+            "baseUnit": null,
+            "pricePerUnit": "",
+            "symbolLast": false,
+            "basisPriceType": "LIST_PRICE",
+            "basisPriceLabel": "List Price:",
+            "basisPricePopover": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product&#39;s prevailing market price.<br\\/><a class=\\\"a-link-normal\\\" href=\\\"https:\\/\\/www.amazon.com\\/gp\\/help\\/customer\\/display.html?nodeId=GQ6B6RH72AX8D2TD&ref_=dp_hp\\\">Learn more<\\/a>",
+            "bottlingDepositFeeDE": null
+        },
+        "deliveryMessage": "\n    FREE delivery\n\n\n",
+        "deliveryBadge": "",
+        "availabilityMessage": "",
+        "availabilityStatus": null,
+        "customerReviewsSummary": {
+            "rating": 4.3,
+            "count": "1,342",
+            "reviewStarCss": "a-star-small-4-5",
+            "displayString": "4.3 out of 5 stars"
+        },
+        "variationData": {
+            "order": "1",
+            "color_name": "Ultimate Pastel Pink"
+        },
+        "percentageClaimed": null,
+        "percentageClaimedBar": null,
+        "secondsLeftToClaim": 0,
+        "detailPageLink": "/dp/B09V62CDKX?m=A37H6AYBLM0PCO",
+        "offerListingId": "9N%2Fx%2Fhyb8TBrw3HHeGahB33BcDdjMn%2BC%2F%2BHBJYczMMLroBif6s3TFDWO967JVhSiEhie4vd%2BpgpDdRLH%2FrR3U8zr2jKnbhFXYBmeCU82W%2FEa7h2WR00QHl4jio2o4MGneSjhks2oD%2BiJ9tU%2FIaKQNtYl0iW6d6WYILk3Cf52IO%2BNxCymik9Q5xsm3k9FaIdv",
+        "itemId": null,
+        "dealId": null,
+        "snsPromotionMessage": "",
+        "defaultGroupingId": "B0B2WX762C#color_name*1:",
+        "defaultGroupingIdForColorAndSize": "B0B2WX762C#",
+        "canAddToCart": true,
+        "maxQuantity": 30,
+        "minQuantity": 1,
+        "minimumOrderQuantity": 1,
+        "productSubCategoryId": "6314100",
+        "wdgSymbol": "video_games_display_on_website",
+        "prime": true,
+        "adultProduct": false,
+        "lightningDeal": false,
+        "parentAsin": false,
+        "variationalAsin": true,
+        "restrictedErrorPage": false,
+        "blockATCAsin": false
+    },
+    {
+        "sortId": [
+            6850.3877
+        ],
+        "asin": "B01MU0UPAM",
+        "merchantId": "A37H6AYBLM0PCO",
+        "canonicalAsin": "B0B2WX762C",
+        "quantity": 0,
+        "badgeType": "",
+        "imgURL": "https://m.media-amazon.com/images/I/41kRRKgfscL.jpg",
+        "imgAlt": "8Bitdo Ultimate Wired Controller for Xbox Series X, Xbox Series S, Xbox One, Windows 10 & Windows 11 - Officially Licensed (White)",
+        "title": "8Bitdo Ultimate Wired Controller for Xbox Series X, Xbox Series S, Xbox One, Windows 10 & Windows 11 - Officially Licensed (White)",
+        "byLineInfoV2": "8Bitdo",
+        "priceInfo": {
+            "priceToPay": {
+                "symbol": "$",
+                "whole": "34",
+                "fraction": "99",
+                "separator": ".",
+                "displayString": "$34.99"
+            },
+            "basicPrice": {
+                "symbol": "$",
+                "whole": "44",
+                "fraction": "99",
+                "separator": ".",
+                "displayString": "$44.99"
+            },
+            "unitPrice": null,
+            "baseUnit": null,
+            "pricePerUnit": "",
+            "symbolLast": false,
+            "basisPriceType": "LIST_PRICE",
+            "basisPriceLabel": "List Price:",
+            "basisPricePopover": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product&#39;s prevailing market price.<br\\/><a class=\\\"a-link-normal\\\" href=\\\"https:\\/\\/www.amazon.com\\/gp\\/help\\/customer\\/display.html?nodeId=GQ6B6RH72AX8D2TD&ref_=dp_hp\\\">Learn more<\\/a>",
+            "bottlingDepositFeeDE": null
+        },
+        "deliveryMessage": "\n    FREE delivery\n\n\n",
+        "deliveryBadge": "",
+        "availabilityMessage": "Only 4 left in stock - order soon.",
+        "availabilityStatus": null,
+        "customerReviewsSummary": {
+            "rating": 4.3,
+            "count": "1,342",
+            "reviewStarCss": "a-star-small-4-5",
+            "displayString": "4.3 out of 5 stars"
+        },
+        "variationData": {
+            "order": "2",
+            "color_name": "Ultimate White"
+        },
+        "percentageClaimed": null,
+        "percentageClaimedBar": null,
+        "secondsLeftToClaim": 0,
+        "detailPageLink": "/dp/B01MU0UPAM?m=A37H6AYBLM0PCO",
+        "offerListingId": "GoyaYYrlRyE89qKtDfvFkmwJXKNQM%2FcvyoDUJ3mcFE3csGqoLmmM%2BAJTuDYIvFLKN4hxzIZ3S4b2fABC0OLgX5ER1JrGL%2BdrzfZgosaDlWqOxZSVXwHNq6YyVd6ZNQDP0JuweDreH4yqa4SPLtnpQ1X9N5XI1ogxEbk0nmzNVKUtYz6RF7w6SrUSo7Wiv%2FcN",
+        "itemId": null,
+        "dealId": null,
+        "snsPromotionMessage": "",
+        "defaultGroupingId": "B0B2WX762C#color_name*2:",
+        "defaultGroupingIdForColorAndSize": "B0B2WX762C#",
+        "canAddToCart": true,
+        "maxQuantity": 4,
+        "minQuantity": 1,
+        "minimumOrderQuantity": 1,
+        "productSubCategoryId": "6314100",
+        "wdgSymbol": "video_games_display_on_website",
+        "prime": true,
+        "adultProduct": false,
+        "lightningDeal": false,
+        "parentAsin": false,
+        "variationalAsin": true,
+        "restrictedErrorPage": false,
+        "blockATCAsin": false
+    }
+]

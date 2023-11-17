@@ -1,0 +1,3547 @@
+{
+    "resource": {
+        "url": "<redacted>/<redacted>/promotions",
+        "types": [
+            "<redacted>"
+        ]
+    },
+    "type": "<redacted>",
+    "entity": {
+        "nextIndex": 30,
+        "rankedPromotions": [
+            {
+                "product": {
+                    "resource": {
+                        "url": "<redacted>/<redacted>/products/B0157T2ENY",
+                        "types": [
+                            "<redacted>",
+                            "<redacted>",
+                            "<redacted>",
+                            "<redacted>",
+                            "<redacted>"
+                        ]
+                    },
+                    "type": "<redacted>",
+                    "entity": {
+                        "asin": "B0157T2ENY",
+                        "buyingOptions": [
+                            {
+                                "price": {
+                                    "resource": {
+                                        "url": "<redacted>/<redacted>/products/B0157T2ENY/buying-options/q8i2gBRNDirlzZSWhs6w0AKou8zbDRErRzbal_1ZJAs%3D/price",
+                                        "types": [
+                                            "product.price/v1"
+                                        ]
+                                    },
+                                    "type": "product.price/v1",
+                                    "metadata": {},
+                                    "entity": {
+                                        "basisPrice": {
+                                            "moneyValueOrRange": {
+                                                "value": {
+                                                    "amount": "39.99",
+                                                    "convertedFrom": {
+                                                        "amount": "39.99",
+                                                        "currencyCode": "USD"
+                                                    },
+                                                    "currencyCode": "USD"
+                                                }
+                                            },
+                                            "impositions": [],
+                                            "shortLabel": "List:",
+                                            "label": "List Price:",
+                                            "type": "LIST_PRICE",
+                                            "priceMessage": {
+                                                "details": {
+                                                    "inlinePopover": {
+                                                        "popoverContent": {
+                                                            "text": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.<br/><a class=\"a-link-normal\" href=\"https://www.amazon.com/gp/help/customer/display.html?nodeId=GQ6B6RH72AX8D2TD&ref_=dp_hp\">Learn more</a>"
+                                                        },
+                                                        "triggeringContent": {
+                                                            "text": "Details"
+                                                        },
+                                                        "triggeringAction": "HOVER",
+                                                        "header": {
+                                                            "text": ""
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "priceToPay": {
+                                            "moneyValueOrRange": {
+                                                "value": {
+                                                    "amount": "20.89",
+                                                    "convertedFrom": {
+                                                        "amount": "20.89",
+                                                        "currencyCode": "USD"
+                                                    },
+                                                    "currencyCode": "USD"
+                                                }
+                                            },
+                                            "impositions": [],
+                                            "label": "Deal Price:",
+                                            "type": "BEST_DEAL",
+                                            "priceMessage": {}
+                                        },
+                                        "savings": {
+                                            "money": {
+                                                "amount": "19.1",
+                                                "convertedFrom": {
+                                                    "amount": "19.1",
+                                                    "currencyCode": "USD"
+                                                },
+                                                "currencyCode": "USD"
+                                            },
+                                            "percentage": {
+                                                "displayString": "48%",
+                                                "value": 48
+                                            },
+                                            "message": {}
+                                        }
+                                    }
+                                },
+                                "dealBadge": {
+                                    "resource": {
+                                        "url": "<redacted>/<redacted>/products/B0157T2ENY/buying-options/q8i2gBRNDirlzZSWhs6w0AKou8zbDRErRzbal_1ZJAs%3D/deal-badge",
+                                        "types": [
+                                            "product.deal-badge/v1"
+                                        ]
+                                    },
+                                    "type": "product.deal-badge/v1",
+                                    "metadata": {},
+                                    "entity": {
+                                        "label": {
+                                            "shortContent": {
+                                                "fragments": [
+                                                    {
+                                                        "text": ""
+                                                    }
+                                                ]
+                                            },
+                                            "experimentalColor": "ffffff",
+                                            "experimentalBackgroundColor": "CC0C39",
+                                            "content": {
+                                                "fragments": [
+                                                    {
+                                                        "text": "48% off"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "messaging": {
+                                            "shortContent": {
+                                                "fragments": [
+                                                    {
+                                                        "text": "Deal"
+                                                    }
+                                                ]
+                                            },
+                                            "experimentalColor": "CC0C39",
+                                            "experimentalBackgroundColor": "ffffff",
+                                            "content": {
+                                                "fragments": [
+                                                    {
+                                                        "text": "Deal"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                },
+                                "promotionsUnified": {
+                                    "resource": {
+                                        "url": "<redacted>/<redacted>/products/B0157T2ENY/buying-options/q8i2gBRNDirlzZSWhs6w0AKou8zbDRErRzbal_1ZJAs%3D/promotions-unified",
+                                        "types": [
+                                            "product.promotions-unified/v1"
+                                        ]
+                                    },
+                                    "type": "product.promotions-unified/v1",
+                                    "metadata": {},
+                                    "entity": {
+                                        "summary": {
+                                            "unifiedIds": [
+                                                "/promo/A1U86MTA3CDQFP"
+                                            ],
+                                            "mediumMessage": {
+                                                "message": {
+                                                    "fragments": [
+                                                        {
+                                                            "text": "Save 5% on Bedsure Cotton Flannel Sheets when you purchase 1 or more Qualifying items offered by Bedsure. "
+                                                        },
+                                                        {
+                                                            "link": {
+                                                                "content": {
+                                                                    "text": "Terms"
+                                                                },
+                                                                "url": "/promotion/details/popup/A1U86MTA3CDQFP?ref=cxcw_bxgx_tc_A1U86MTA3CDQFP"
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "base": {
+                                                "displayStyles": [
+                                                    "CLICK_TO_CLAIM",
+                                                    "UNKNOWN",
+                                                    "EXTRA_SAVINGS_POPOVER"
+                                                ]
+                                            }
+                                        },
+                                        "displayablePromotions": [
+                                            {
+                                                "claimAjaxPostLink": {
+                                                    "data": {
+                                                        "displayString": "Redeem",
+                                                        "failureText": "An unknown error has occured. Please try again later.",
+                                                        "parameters": [
+                                                            {
+                                                                "value": "B0157T2ENY",
+                                                                "name": "asin"
+                                                            },
+                                                            {
+                                                                "value": "A1U86MTA3CDQFP",
+                                                                "name": "promotionId"
+                                                            },
+                                                            {
+                                                                "value": "A1U86MTA3CDQFP",
+                                                                "name": "encryptedPromotionId"
+                                                            },
+                                                            {
+                                                                "value": "sILfuRjuHFbgnckwaBihsFcHhp%2FFGPQAnk8%2BPVemKYbtWgtqdzfW9z1ZAamLLRnFm2aU2I%2BDVy4yoD48536b2sQ%2BcRCV9mVVad8FWoPJLz58yMBSyxhX5jRkVyKDkaLnjxaE8GKy7kK4IMms6FEM%2FTs5J2DgFgK6lcsGNlfjpXhEtKq0TfrrjxrfkVYO87VE",
+                                                                "name": "offerListingId"
+                                                            },
+                                                            {
+                                                                "value": "BA523G1AG6QU",
+                                                                "name": "sku"
+                                                            },
+                                                            {
+                                                                "value": "gxld2wLqfbQn7GO5UlSlf7cFRtR%2FBdSj%2BI5GLWXCAvDIAAAAAQAAAABlUiEpcmF3AAAAAGfaM7%2Fie4v1Eo%2F7XVH9gA%3D%3D",
+                                                                "name": "anti-csrftoken-a2z"
+                                                            }
+                                                        ],
+                                                        "successText": "Redeemed"
+                                                    },
+                                                    "url": "/promotion/signin/redeem"
+                                                },
+                                                "accessConfirmationMediumMessage": {
+                                                    "fragments": [
+                                                        {
+                                                            "text": "Save 5% on Bedsure Cotton Flannel Sheets when you purchase 1 or more Qualifying items offered by Bedsure. "
+                                                        },
+                                                        {
+                                                            "link": {
+                                                                "content": {
+                                                                    "text": "Terms"
+                                                                },
+                                                                "url": "/promotion/details/popup/A1U86MTA3CDQFP?ref=cxcw_bxgx_tc_A1U86MTA3CDQFP"
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "base": {
+                                                    "displayStyles": [
+                                                        "CLICK_TO_CLAIM",
+                                                        "UNKNOWN",
+                                                        "EXTRA_SAVINGS_POPOVER"
+                                                    ]
+                                                },
+                                                "mediumMessage": {
+                                                    "message": {
+                                                        "fragments": [
+                                                            {
+                                                                "text": "Save 5% on Bedsure Cotton Flannel Sheets when you purchase 1 or more Qualifying items offered by Bedsure. "
+                                                            },
+                                                            {
+                                                                "link": {
+                                                                    "content": {
+                                                                        "text": "Terms"
+                                                                    },
+                                                                    "url": "/promotion/details/popup/A1U86MTA3CDQFP?ref=cxcw_bxgx_tc_A1U86MTA3CDQFP"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                "purchaseTogether": {
+                                                    "allAtOnce": true,
+                                                    "offersToBuy": [
+                                                        {
+                                                            "product": {
+                                                                "resource": {
+                                                                    "types": [
+                                                                        "<redacted>"
+                                                                    ],
+                                                                    "url": "/marketplaces/<redacted>/products/B0CDQ5YMWR?offerListingId=RXVc2EwW9avLc5y9v5gJQcLStc4X%2BUSVRez1io6SHLahQ59ZxtvI6LEWM01XCkW0BDmws%2BXETpapT7%2Fw4o3JpR%2BleW8ou9aihp4mwVQ162fVZRWPDlnYNncwM7W%2BHVtIZ0js312ZXCkR5Fcr1NKvxjbY6NycjIej"
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "unifiedId": "/promo/A1U86MTA3CDQFP",
+                                                "associatedPaymentInstruments": [],
+                                                "longMessage": {
+                                                    "message": {
+                                                        "fragments": [
+                                                            {
+                                                                "text": "Save 5% on "
+                                                            },
+                                                            {
+                                                                "link": {
+                                                                    "content": {
+                                                                        "text": "Bedsure Cotton Flannel Sheets"
+                                                                    },
+                                                                    "url": "/dp/B0CDQ5YMWR/ref=promo_pdapsinfo?ie=UTF8&psc=1&m=A3LDROY0BE4ISH"
+                                                                }
+                                                            },
+                                                            {
+                                                                "text": " when you purchase 1 or more Qualifying items offered by Bedsure. Select \"Add both to Cart\" to automatically apply promo code DO3BVE9M. "
+                                                            },
+                                                            {
+                                                                "link": {
+                                                                    "content": {
+                                                                        "text": "Here's how"
+                                                                    },
+                                                                    "url": "/promotion/details/popup/A1U86MTA3CDQFP"
+                                                                }
+                                                            },
+                                                            {
+                                                                "text": " (restrictions apply)"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                "combinedSavings": {
+                                                    "percentageBasedSavings": 5,
+                                                    "percentageForDisplay": {
+                                                        "displayString": "5%",
+                                                        "value": 5
+                                                    },
+                                                    "unifiedIdsThatCombine": []
+                                                }
+                                            },
+                                            {
+                                                "claimAjaxPostLink": {
+                                                    "data": {
+                                                        "displayString": "Redeem",
+                                                        "failureText": "An unknown error has occured. Please try again later.",
+                                                        "parameters": [
+                                                            {
+                                                                "value": "B0157T2ENY",
+                                                                "name": "asin"
+                                                            },
+                                                            {
+                                                                "value": "A3F0SIPXKRUIZB",
+                                                                "name": "promotionId"
+                                                            },
+                                                            {
+                                                                "value": "A3F0SIPXKRUIZB",
+                                                                "name": "encryptedPromotionId"
+                                                            },
+                                                            {
+                                                                "value": "sILfuRjuHFbgnckwaBihsFcHhp%2FFGPQAnk8%2BPVemKYbtWgtqdzfW9z1ZAamLLRnFm2aU2I%2BDVy4yoD48536b2sQ%2BcRCV9mVVad8FWoPJLz58yMBSyxhX5jRkVyKDkaLnjxaE8GKy7kK4IMms6FEM%2FTs5J2DgFgK6lcsGNlfjpXhEtKq0TfrrjxrfkVYO87VE",
+                                                                "name": "offerListingId"
+                                                            },
+                                                            {
+                                                                "value": "BA523G1AG6QU",
+                                                                "name": "sku"
+                                                            },
+                                                            {
+                                                                "value": "gxld2wLqfbQn7GO5UlSlf7cFRtR%2FBdSj%2BI5GLWXCAvDIAAAAAQAAAABlUiEpcmF3AAAAAGfaM7%2Fie4v1Eo%2F7XVH9gA%3D%3D",
+                                                                "name": "anti-csrftoken-a2z"
+                                                            }
+                                                        ],
+                                                        "successText": "Redeemed"
+                                                    },
+                                                    "url": "/promotion/signin/redeem"
+                                                },
+                                                "accessConfirmationMediumMessage": {
+                                                    "fragments": [
+                                                        {
+                                                            "text": "Save 5% on Bedsure 100% Cotton Sheet Set when you purchase 1 or more Qualifying items offered by Bedsure. "
+                                                        },
+                                                        {
+                                                            "link": {
+                                                                "content": {
+                                                                    "text": "Terms"
+                                                                },
+                                                                "url": "/promotion/details/popup/A3F0SIPXKRUIZB?ref=cxcw_bxgx_tc_A3F0SIPXKRUIZB"
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "base": {
+                                                    "displayStyles": [
+                                                        "CLICK_TO_CLAIM",
+                                                        "UNKNOWN",
+                                                        "EXTRA_SAVINGS_POPOVER"
+                                                    ]
+                                                },
+                                                "mediumMessage": {
+                                                    "message": {
+                                                        "fragments": [
+                                                            {
+                                                                "text": "Save 5% on Bedsure 100% Cotton Sheet Set when you purchase 1 or more Qualifying items offered by Bedsure. "
+                                                            },
+                                                            {
+                                                                "link": {
+                                                                    "content": {
+                                                                        "text": "Terms"
+                                                                    },
+                                                                    "url": "/promotion/details/popup/A3F0SIPXKRUIZB?ref=cxcw_bxgx_tc_A3F0SIPXKRUIZB"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                "purchaseTogether": {
+                                                    "allAtOnce": true,
+                                                    "offersToBuy": [
+                                                        {
+                                                            "product": {
+                                                                "resource": {
+                                                                    "types": [
+                                                                        "<redacted>"
+                                                                    ],
+                                                                    "url": "/marketplaces/<redacted>/products/B0C65GF7HQ?offerListingId=k0p4ceIllQUZ9GSC7usvj7kayo5%2Bt9o0xbCC%2FcVX%2FH5iWu08Sk%2Fyqa6CtpWJSutDxWj5avopjJR%2Fd%2FnAlqfZSxWPBhBddnSiTpNyiPmaAQIka256bQdrRGWz6mE7TgFEhU5nddOnohIrYs7l2mSo334tMPSk7GU4"
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "unifiedId": "/promo/A3F0SIPXKRUIZB",
+                                                "associatedPaymentInstruments": [],
+                                                "longMessage": {
+                                                    "message": {
+                                                        "fragments": [
+                                                            {
+                                                                "text": "Save 5% on "
+                                                            },
+                                                            {
+                                                                "link": {
+                                                                    "content": {
+                                                                        "text": "Bedsure 100% Cotton Sheet Set"
+                                                                    },
+                                                                    "url": "/dp/B0C65GF7HQ/ref=promo_pdapsinfo?ie=UTF8&psc=1&m=A3LDROY0BE4ISH"
+                                                                }
+                                                            },
+                                                            {
+                                                                "text": " when you purchase 1 or more Qualifying items offered by Bedsure. Select \"Add both to Cart\" to automatically apply promo code 4KNKRNLB. "
+                                                            },
+                                                            {
+                                                                "link": {
+                                                                    "content": {
+                                                                        "text": "Here's how"
+                                                                    },
+                                                                    "url": "/promotion/details/popup/A3F0SIPXKRUIZB"
+                                                                }
+                                                            },
+                                                            {
+                                                                "text": " (restrictions apply)"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                "combinedSavings": {
+                                                    "percentageBasedSavings": 5,
+                                                    "percentageForDisplay": {
+                                                        "displayString": "5%",
+                                                        "value": 5
+                                                    },
+                                                    "unifiedIdsThatCombine": []
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                "dealDetails": {
+                                    "resource": {
+                                        "url": "<redacted>/<redacted>/products/B0157T2ENY/buying-options/q8i2gBRNDirlzZSWhs6w0AKou8zbDRErRzbal_1ZJAs%3D/deal-details",
+                                        "types": [
+                                            "product.deal-details/v1"
+                                        ]
+                                    },
+                                    "type": "product.deal-details/v1",
+                                    "metadata": {},
+                                    "entity": {
+                                        "startTime": "2023-11-13T08:00:00.000Z",
+                                        "endTime": "2023-11-20T07:45:00.000Z",
+                                        "id": "17241ac1",
+                                        "state": "AVAILABLE",
+                                        "type": "BEST_DEAL"
+                                    }
+                                },
+                                "type": "NEW"
+                            }
+                        ],
+                        "productImages": {
+                            "resource": {
+                                "url": "<redacted>/<redacted>/products/B0157T2ENY/product-images",
+                                "types": [
+                                    "product.product-images/v2"
+                                ]
+                            },
+                            "type": "product.product-images/v2",
+                            "metadata": {},
+                            "entity": {
+                                "images": [
+                                    {
+                                        "lowRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "51+kpgWcOhL",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "hiRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "81CGKCHLbML",
+                                            "width": 2500,
+                                            "height": 2500
+                                        },
+                                        "variant": "MAIN"
+                                    },
+                                    {
+                                        "lowRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "513GuQMw80L",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "hiRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "919ok5ZrsEL",
+                                            "width": 2500,
+                                            "height": 2500
+                                        },
+                                        "variant": "PT01"
+                                    },
+                                    {
+                                        "lowRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "51n+plutBoL",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "hiRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "81fnXHgWpKL",
+                                            "width": 2500,
+                                            "height": 2500
+                                        },
+                                        "variant": "PT02"
+                                    },
+                                    {
+                                        "lowRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "51xkA5nnY+L",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "hiRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "91XgVxplYML",
+                                            "width": 2500,
+                                            "height": 2500
+                                        },
+                                        "variant": "PT03"
+                                    },
+                                    {
+                                        "lowRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "61nuw0TURPL",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "hiRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "91vM51aSo-L",
+                                            "width": 2500,
+                                            "height": 2500
+                                        },
+                                        "variant": "PT04"
+                                    },
+                                    {
+                                        "lowRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "51Ca5RST6qL",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "hiRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "91Gz2mx95kL",
+                                            "width": 2500,
+                                            "height": 2500
+                                        },
+                                        "variant": "PT05"
+                                    },
+                                    {
+                                        "lowRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "514g5m0abGL",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "hiRes": {
+                                            "extension": "jpg",
+                                            "physicalId": "81vDEjy0MjL",
+                                            "width": 1802,
+                                            "height": 1802
+                                        },
+                                        "variant": "PT07"
+                                    }
+                                ],
+                                "altText": "Bedsure Fleece Bed Blankets Queen Size Grey - Soft Lightweight Plush Fuzzy Cozy Luxury Blanket Microfiber, 90x90 inches"
+                            }
+                        },
+                        "title": {
+                            "resource": {
+                                "url": "<redacted>/<redacted>/products/B0157T2ENY/title",
+                                "types": [
+                                    "product.offer.title/v1",
+                                    "product.offer.catalog-title/v1"
+                                ]
+                            },
+                            "type": "product.offer.title/v1",
+                            "entity": {
+                                "displayString": "Bedsure Fleece Bed Blankets Queen Size Grey - Soft Lightweight Plush Fuzzy Cozy Luxury Blanket Microfiber, 90x90 inches"
+                            }
+                        },
+                        "energyEfficiency": {
+                            "resource": {
+                                "url": "<redacted>/<redacted>/products/B0157T2ENY/energy-efficiency",
+                                "types": [
+                                    "product.energy-efficiency/v2",
+                                    "product.offer.energy-efficiency/v1"
+                                ]
+                            },
+                            "type": "product.energy-efficiency/v2",
+                            "entity": {
+                                "visual": [],
+                                "experimentalVisual": [],
+                                "experimentalRating": {},
+                                "rating": {}
+                            }
+                        },
+                        "twisterVariations": {
+                            "resource": {
+                                "url": "<redacted>/<redacted>/products/B0157T2ENY/twister-variations",
+                                "types": [
+                                    "product.twister-variations/v2"
+                                ]
+                            },
+                            "type": "product.twister-variations/v2",
+                            "entity": {
+                                "dimensionMetadata": [
+                                    {
+                                        "values": []
+                                    },
+                                    {
+                                        "values": [
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#ABABAF"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#C2BBB1"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#D7A430"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#D9C0C0"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#96A49E"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#667D99"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#E5E4E2"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#BE6137"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#BCA4B5"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#232937"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#336075"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#282829"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#473F35"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#5E343E"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#7B6B53"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#383837"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#E59E90"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#D8D2C9"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#304D4D"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#C1A79C"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#A46D71"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#2A4340"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#797C83"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#9FAEC3"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#3A4557"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#3B3D30"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#B96A48"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#4A3958"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#882135"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#AF4E43"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#DEC581"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#A4344E"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#86594D"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#AAA748"
+                                                }
+                                            },
+                                            {
+                                                "colorCode": {
+                                                    "primary": "#EAA2BB"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "dimensionKeys": [
+                                    {
+                                        "symbol": "size_name",
+                                        "displayString": "Size"
+                                    },
+                                    {
+                                        "symbol": "color_name",
+                                        "displayString": "Color"
+                                    }
+                                ],
+                                "dimensionValues": [
+                                    [
+                                        "Baby (30\" x 43\")",
+                                        "Kids (43\" x 55\")",
+                                        "Throw (50\" x 60\")",
+                                        "Throw XL (50\" x 70\")",
+                                        "Twin (60\" x 80\")",
+                                        "Twin XL (66\" x 90\")",
+                                        "Queen (90\" x 90\")",
+                                        "King (108\" x 90\")"
+                                    ],
+                                    [
+                                        "Light Grey",
+                                        "Linen",
+                                        "Mustard Yellow",
+                                        "Pink",
+                                        "Sage Green",
+                                        "Washed Blue",
+                                        "White",
+                                        "Burnt Orange",
+                                        "Lilac",
+                                        "Navy",
+                                        "Teal Blue",
+                                        "Black",
+                                        "Brown",
+                                        "Burgundy Red",
+                                        "Camel",
+                                        "Charcoal",
+                                        "Coral",
+                                        "Cream",
+                                        "Dark Green",
+                                        "Dusty Pink",
+                                        "Dusty Rose",
+                                        "Forest Green",
+                                        "Grey",
+                                        "Light Blue",
+                                        "Mineral Blue",
+                                        "Olive Green",
+                                        "Orange",
+                                        "Purple",
+                                        "Red",
+                                        "Rust Red",
+                                        "Straw",
+                                        "Viva Magenta",
+                                        "Chocolate",
+                                        "Green",
+                                        "Rose Pink"
+                                    ]
+                                ],
+                                "variations": [
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP6W9CC1",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP6ZVLP6",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP6Z92BT",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP74DP7W",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP6XGPYD",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP6XJNZ1",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP6ZQVBN",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BP729QFH",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            6
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0C1YRNQFW",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0C1YS5BND",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            8
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0C1YS25Y6",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            9
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0C1YNZMVS",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            1,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CXX6QGK",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BFCY4KNZ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RDRJ3K",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07C1LNZFB",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CD7TQS",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01MT7YX9E",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T1XOA",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            6
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CDKS8L",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKVXL2K",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            8
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T1UMA",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            9
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B072XG921C",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07V32QH9B",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T1W6Y",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            12
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPQ21TR",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            13
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B075XD88WR",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            14
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B06XHJC6J1",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            15
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B083NJXJ9H",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            16
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08BC2MSKW",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            17
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07WCJ7CBY",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            18
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKVGC3R",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            19
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGWTRT9",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            20
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPS27P3",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            21
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T1ZK2",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            22
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGYVYZ3",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            23
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RDSBS9",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07QW76Q4W",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            25
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01LEW4YZE",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            27
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T24BG",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            28
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CRF4YZC",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            29
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGZDVN5",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            30
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGXH5C1",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            2,
+                                            31
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSH7VMF",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY2BGH6Y",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX69DWP3",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSGD5WB",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSG4BCV",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX6B81YW",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSFBCR6",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            6
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX67GXZG",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX6BB7LJ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            8
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSD2S7X",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            9
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX6CTWJN",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSFRC9Z",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX68Z7SM",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            12
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX67RZYB",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            14
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX6D6BXS",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            15
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSGPT5L",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            17
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX6C8CNG",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            19
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDH29WQ6",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            20
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BLSCS7B1",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            22
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDH13QCN",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            23
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX68PB3R",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX674YY2",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            25
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX69ZNB7",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            27
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BX69NMGZ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            28
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDH2F7B5",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            30
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGYJ59Y",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            3,
+                                            31
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CWP8LCK",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BFDLBVW4",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RF26J4",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07C1Y927K",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CBPK4S",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01NCV0CS1",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2AF6",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            6
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CCKJKC",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKWBG74",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            8
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T27DQ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            9
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B072XH5RVX",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07V2Z242R",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T28YO",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            12
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPPJWQF",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            13
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B075X9LQ3W",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            14
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B06XHWP3BH",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            15
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B083NDZ2JD",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            16
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08BC1SND8",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            17
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07WF2ZCWH",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            18
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKVXYX2",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            19
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGZF9Z4",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            20
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPQC8NT",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            21
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2C3G",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            22
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDH29WQJ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            23
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RDH71N",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07QBYNZC7",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            25
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01LEW5278",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            27
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2HE0",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            28
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGZF2FJ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            30
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGXNLSG",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            31
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CRN99XK",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            4,
+                                            33
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B09VXNCQLR",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY2BFBR9",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY2DKFY1",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B09VXNN361",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY28DH95",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY28822Q",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY29NZMH",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY2DMF7Q",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            8
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B09VXQMVHM",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            9
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY28MC5L",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B09VXP1ZNL",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BY2BJYXC",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            15
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B09VXL86VT",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            17
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGZT58G",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            20
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B09VXLLCCF",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            22
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGXV13M",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            23
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B09VXP2M1G",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            27
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGYVVY8",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            5,
+                                            31
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CXHCF8J",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BFCZMNCY",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RD26KY",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07MKC3FRJ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CBWXYP",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01MZ8NWNL",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2CYU",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            6
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CDG15L",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKWJ3FR",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            8
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T291G",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            9
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B072XFWM3C",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07V1ZZLQS",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2ATW",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            12
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPR7F5M",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            13
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B075XHXXLQ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            14
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B06XHZM29F",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            15
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08BC7J6BS",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            17
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07WLT339J",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            18
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKY8CJV",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            19
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGXZPNL",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            20
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPQHMX7",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            21
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2ENY",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            22
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGYFKNB",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            23
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RDFB1F",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07Q8GLFJX",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            25
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08LGJ1CW9",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            26
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01LEW5C96",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            27
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2JP2",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            28
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDH289GD",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            30
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGZLCX2",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            31
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RD2VMD",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            32
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CRS6Y7R",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            6,
+                                            34
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CXRKP5M",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BFCY84XY",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RDD1GF",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07MND6R2Q",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CCWVSJ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01MU9K1IM",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2Q6Y",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            6
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0B6CD2XMV",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKXQQN7",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            8
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2N6W",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            9
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B072XGV23K",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07V225F2D",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2ONE",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            12
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPQWKHN",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            13
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B075XDLBHH",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            14
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B06XHXSXRT",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            15
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B083MZPJ2S",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            16
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08BC2SG7C",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            17
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07YKVNTF8",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            19
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGXF3CJ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            20
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0BRPP7WBD",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            21
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2RX6",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            22
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGXNCQ6",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            23
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B087RD8T64",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            24
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B07QCXL1CJ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            25
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08LGLR4SN",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            26
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B01LEW5E62",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            27
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0157T2XHQ",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            28
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDGXPS9W",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            30
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B0CDH11XYN",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            31
+                                        ]
+                                    },
+                                    {
+                                        "product": {
+                                            "resource": {
+                                                "url": "<redacted>/<redacted>/products/B08CRCRPBB",
+                                                "types": []
+                                            }
+                                        },
+                                        "values": [
+                                            7,
+                                            33
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "links": {
+                            "resource": {
+                                "url": "<redacted>/<redacted>/products/B0157T2ENY/links",
+                                "types": [
+                                    "product.links/v3",
+                                    "product.links/v2"
+                                ]
+                            },
+                            "type": "product.links/v2",
+                            "entity": {
+                                "viewOnAmazon": {
+                                    "url": "/Bedsure-Fleece-Blanket-Lightweight-Microfiber/dp/B0157T2ENY"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "refinements": [
+            {
+                "singleSelect": {
+                    "clear": {
+                        "name": "All"
+                    },
+                    "name": "Price",
+                    "options": [
+                        {
+                            "name": {
+                                "fragments": [
+                                    {
+                                        "text": "Under "
+                                    },
+                                    {
+                                        "money": {
+                                            "amount": "25",
+                                            "convertedFrom": {
+                                                "amount": "25",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    }
+                                ]
+                            },
+                            "selected": false,
+                            "value": "1"
+                        },
+                        {
+                            "name": {
+                                "fragments": [
+                                    {
+                                        "money": {
+                                            "amount": "25",
+                                            "convertedFrom": {
+                                                "amount": "25",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    },
+                                    {
+                                        "text": " to "
+                                    },
+                                    {
+                                        "money": {
+                                            "amount": "50",
+                                            "convertedFrom": {
+                                                "amount": "50",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    }
+                                ]
+                            },
+                            "selected": false,
+                            "value": "2"
+                        },
+                        {
+                            "name": {
+                                "fragments": [
+                                    {
+                                        "money": {
+                                            "amount": "50",
+                                            "convertedFrom": {
+                                                "amount": "50",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    },
+                                    {
+                                        "text": " to "
+                                    },
+                                    {
+                                        "money": {
+                                            "amount": "100",
+                                            "convertedFrom": {
+                                                "amount": "100",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    }
+                                ]
+                            },
+                            "selected": false,
+                            "value": "3"
+                        },
+                        {
+                            "name": {
+                                "fragments": [
+                                    {
+                                        "money": {
+                                            "amount": "100",
+                                            "convertedFrom": {
+                                                "amount": "100",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    },
+                                    {
+                                        "text": " to "
+                                    },
+                                    {
+                                        "money": {
+                                            "amount": "200",
+                                            "convertedFrom": {
+                                                "amount": "200",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    }
+                                ]
+                            },
+                            "selected": false,
+                            "value": "4"
+                        },
+                        {
+                            "name": {
+                                "fragments": [
+                                    {
+                                        "money": {
+                                            "amount": "200",
+                                            "convertedFrom": {
+                                                "amount": "200",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    },
+                                    {
+                                        "text": " & Above"
+                                    }
+                                ]
+                            },
+                            "selected": false,
+                            "value": "5"
+                        }
+                    ],
+                    "refinementFilterId": "price"
+                }
+            },
+            {
+                "singleSelect": {
+                    "clear": {
+                        "name": "All"
+                    },
+                    "name": "Discount",
+                    "options": [
+                        {
+                            "name": {
+                                "text": "10% off or more"
+                            },
+                            "selected": false,
+                            "value": "1"
+                        },
+                        {
+                            "name": {
+                                "text": "25% off or more"
+                            },
+                            "selected": false,
+                            "value": "2"
+                        },
+                        {
+                            "name": {
+                                "text": "50% off or more"
+                            },
+                            "selected": false,
+                            "value": "3"
+                        },
+                        {
+                            "name": {
+                                "text": "70% off or more"
+                            },
+                            "selected": false,
+                            "value": "4"
+                        }
+                    ],
+                    "refinementFilterId": "percentOff"
+                }
+            },
+            {
+                "singleSelect": {
+                    "clear": {
+                        "name": "Any Department"
+                    },
+                    "name": "Department",
+                    "options": [
+                        {
+                            "name": {
+                                "text": "Amazon Devices & Accessories"
+                            },
+                            "selected": false,
+                            "value": "16333373011"
+                        },
+                        {
+                            "name": {
+                                "text": "Appliances"
+                            },
+                            "selected": false,
+                            "value": "2619526011"
+                        },
+                        {
+                            "name": {
+                                "text": "Arts, Crafts & Sewing"
+                            },
+                            "selected": false,
+                            "value": "2617942011"
+                        },
+                        {
+                            "name": {
+                                "text": "Audible Books & Originals"
+                            },
+                            "selected": false,
+                            "value": "18145290011"
+                        },
+                        {
+                            "name": {
+                                "text": "Automotive"
+                            },
+                            "selected": false,
+                            "value": "15690151"
+                        },
+                        {
+                            "name": {
+                                "text": "Baby Products"
+                            },
+                            "selected": false,
+                            "value": "165797011"
+                        },
+                        {
+                            "name": {
+                                "text": "Beauty & Personal Care"
+                            },
+                            "selected": false,
+                            "value": "11055981"
+                        },
+                        {
+                            "name": {
+                                "text": "Books"
+                            },
+                            "selected": false,
+                            "value": "1000"
+                        },
+                        {
+                            "name": {
+                                "text": "CDs & Vinyl"
+                            },
+                            "selected": false,
+                            "value": "301668"
+                        },
+                        {
+                            "name": {
+                                "text": "Cell Phones & Accessories"
+                            },
+                            "selected": false,
+                            "value": "2335753011"
+                        },
+                        {
+                            "name": {
+                                "text": "Clothing, Shoes & Jewelry"
+                            },
+                            "selected": false,
+                            "value": "7141124011"
+                        },
+                        {
+                            "name": {
+                                "text": "Electronics"
+                            },
+                            "selected": false,
+                            "value": "493964"
+                        },
+                        {
+                            "name": {
+                                "text": "Everything Else"
+                            },
+                            "selected": false,
+                            "value": "10304191"
+                        },
+                        {
+                            "name": {
+                                "text": "Grocery & Gourmet Food"
+                            },
+                            "selected": false,
+                            "value": "16310211"
+                        },
+                        {
+                            "name": {
+                                "text": "Handmade Products"
+                            },
+                            "selected": false,
+                            "value": "11260433011"
+                        },
+                        {
+                            "name": {
+                                "text": "Health & Household"
+                            },
+                            "selected": false,
+                            "value": "3760931"
+                        },
+                        {
+                            "name": {
+                                "text": "Home & Kitchen"
+                            },
+                            "selected": false,
+                            "value": "1063498"
+                        },
+                        {
+                            "name": {
+                                "text": "Industrial & Scientific"
+                            },
+                            "selected": false,
+                            "value": "16310161"
+                        },
+                        {
+                            "name": {
+                                "text": "Kindle Store"
+                            },
+                            "selected": false,
+                            "value": "133141011"
+                        },
+                        {
+                            "name": {
+                                "text": "Movies & TV"
+                            },
+                            "selected": false,
+                            "value": "2625374011"
+                        },
+                        {
+                            "name": {
+                                "text": "Musical Instruments"
+                            },
+                            "selected": false,
+                            "value": "11965861"
+                        },
+                        {
+                            "name": {
+                                "text": "Office Products"
+                            },
+                            "selected": false,
+                            "value": "1084128"
+                        },
+                        {
+                            "name": {
+                                "text": "Patio, Lawn & Garden"
+                            },
+                            "selected": false,
+                            "value": "3238155011"
+                        },
+                        {
+                            "name": {
+                                "text": "Pet Supplies"
+                            },
+                            "selected": false,
+                            "value": "2619534011"
+                        },
+                        {
+                            "name": {
+                                "text": "Prime Video"
+                            },
+                            "selected": false,
+                            "value": "19325307011"
+                        },
+                        {
+                            "name": {
+                                "text": "Software"
+                            },
+                            "selected": false,
+                            "value": "491286"
+                        },
+                        {
+                            "name": {
+                                "text": "Sports & Outdoors"
+                            },
+                            "selected": false,
+                            "value": "3375301"
+                        },
+                        {
+                            "name": {
+                                "text": "Tools & Home Improvement"
+                            },
+                            "selected": false,
+                            "value": "468240"
+                        },
+                        {
+                            "name": {
+                                "text": "Toys & Games"
+                            },
+                            "selected": false,
+                            "value": "165795011"
+                        },
+                        {
+                            "name": {
+                                "text": "Video Games"
+                            },
+                            "selected": false,
+                            "value": "11846801"
+                        }
+                    ],
+                    "refinementFilterId": "departments"
+                }
+            },
+            {
+                "singleSelect": {
+                    "clear": {
+                        "name": "Clear"
+                    },
+                    "name": "Customer Reviews",
+                    "options": [
+                        {
+                            "name": {
+                                "text": "4 Stars & Up"
+                            },
+                            "selected": false,
+                            "value": "4"
+                        },
+                        {
+                            "name": {
+                                "text": "3 Stars & Up"
+                            },
+                            "selected": false,
+                            "value": "3"
+                        },
+                        {
+                            "name": {
+                                "text": "2 Stars & Up"
+                            },
+                            "selected": false,
+                            "value": "2"
+                        },
+                        {
+                            "name": {
+                                "text": "1 Star & Up"
+                            },
+                            "selected": false,
+                            "value": "1"
+                        }
+                    ],
+                    "refinementFilterId": "reviewRating"
+                }
+            },
+            {
+                "multiSelect": {
+                    "clear": {
+                        "name": "Clear"
+                    },
+                    "name": "Prime Programs",
+                    "options": [
+                        {
+                            "name": {
+                                "text": "Prime Exclusive"
+                            },
+                            "selected": false,
+                            "value": "1"
+                        },
+                        {
+                            "name": {
+                                "text": "Prime Early Access"
+                            },
+                            "selected": false,
+                            "value": "2"
+                        }
+                    ],
+                    "refinementFilterId": "accessType"
+                }
+            }
+        ],
+        "totalCount": 10000
+    }
+}

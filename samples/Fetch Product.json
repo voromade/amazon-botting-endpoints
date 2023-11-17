@@ -1,0 +1,1049 @@
+{
+    "resource": {
+        "types": [
+            "<redacted>",
+            "<redacted>",
+            "<redacted>",
+            "<redacted>"
+        ],
+        "url": "<redacted>"
+    },
+    "type": "<redacted>",
+    "entities": [
+        {
+            "resource": {
+                "url": "<redacted>",
+                "types": [
+                    "<redacted>",
+                    "<redacted>",
+                    "<redacted>",
+                    "<redacted>",
+                    "<redacted>"
+                ]
+            },
+            "type": "<redacted>",
+            "entity": {
+                "asin": "B0B7J12Z2W",
+                "buyingOptions": [
+                    {
+                        "delivery": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/delivery",
+                                "types": [
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "<redacted>",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-amzn-metrics-id": "delivery:ffc69079-87c9-3829-a0de-e16c8e3e3414",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C",
+                                "x-api-exp-data": "RAFN_US_SKYDEN_TENANT_REGISTRATION_581484:T1,JUMPIN_SKYDEN_CONFIGSTORE_MIGRATION_758590:T1,SHIPPING_DATA_IN_SHIPPING_INSTRUCTIONS_643063:T1,F3_BAM_OASIS_TO_BASIC_DELIVERY_PROGRAM_764825:T1,ROAR_SUPPRESS_PICKUP_MESSAGE_IN_DELIVERY_TAB_582023:T1,DEX_CLARITY_UDM_GATE_ALTERNATIVE_PAID_MI_542301:C,EDM_RAFN_US_544343:C,DEX_CLARITY_UDM_IN_CART_DATAPATH_774530:T1,UDM_SHIPPINGCOST_FOR_TLC_WIDGET_653373:T1,AGS_RAFN_US_MKT_ENABLE_498268:T1,DEX_CLARITY_STORE_DETAILS_LINK_512005:T1,HDM_DEVO_EVENT_CONFIG_479761:C,DEX_SD_MIP_API_UPSELL_282685:C,EDBPE_SHORT_CIRCUITING_780813:T1,PDEX_CONTROL_FLAGS_CLEANUP_799163:T1,FAST_AND_GREEN_MIP_TENANT_491227:T1,SRPO_BUDGET_METADATA_687975:T1,SKYDEN_DESTINATION_FILTER_233126:T1,UPOM_CONSIDERS_CUSTOMER_ELIGIBILITY_668035:T1,DEX_CLARITY_UDM_HOUR_PROMISE_428973:C,DEX_PRIME_803737:T1,DEX_DELIVERY_SIGNAL_CLIENTID_744168:T1,SSD_490311:T1,ACTIVATE_CEP_COREFREESHIPPING_DBP_SKYDEN_656721:C,CE_M1_DEX_FACADE_776035:C"
+                            },
+                            "entity": {
+                                "messageInstructions": [
+                                    {
+                                        "variant": "PRIME_UPSELL",
+                                        "subType": "",
+                                        "type": "CFS",
+                                        "messageData": [
+                                            {
+                                                "unifiedFragmentLinks": {
+                                                    "links": [
+                                                        {
+                                                            "startFragment": "DeliveryPrice",
+                                                            "endFragment": "DeliveryType",
+                                                            "link": {
+                                                                "url": "/gp/help/customer/display.html?nodeId=GZXW7X6AKTHNUP6H"
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "promise": {
+                                                    "deliveryDateValueOrRange": {
+                                                        "deliveryDate": {
+                                                            "dateTime": "2023-11-22T04:00:00.000Z",
+                                                            "zoneId": "US/Pacific"
+                                                        }
+                                                    },
+                                                    "deliveryOptionId": "5"
+                                                },
+                                                "threshold": {
+                                                    "value": {
+                                                        "amount": "35.0",
+                                                        "convertedFrom": {
+                                                            "amount": "35.0",
+                                                            "currencyCode": "USD"
+                                                        },
+                                                        "currencyCode": "USD"
+                                                    }
+                                                },
+                                                "key": "CFS"
+                                            }
+                                        ],
+                                        "group": "deliveryBenefitPrograms"
+                                    },
+                                    {
+                                        "variant": "COUNTDOWN_DELIVERYOPTION",
+                                        "subType": "FT",
+                                        "type": "DAME_DELIVERABLE",
+                                        "messageData": [
+                                            {
+                                                "promise": {
+                                                    "deliveryDateValueOrRange": {
+                                                        "deliveryDate": {
+                                                            "dateTime": "2023-11-21T04:00:00.000Z",
+                                                            "zoneId": "US/Pacific"
+                                                        }
+                                                    },
+                                                    "cutoff": {
+                                                        "dateTime": "2023-11-16T18:30:00.000Z",
+                                                        "zoneId": "US/Pacific"
+                                                    },
+                                                    "deliveryOptionId": "1"
+                                                },
+                                                "key": "DAME_DELIVERABLE"
+                                            }
+                                        ],
+                                        "group": "fastTrack"
+                                    },
+                                    {
+                                        "variant": "BLANK",
+                                        "subType": "",
+                                        "type": "PRIME_BADGE",
+                                        "messageData": [
+                                            {
+                                                "key": "BADGECX",
+                                                "badgeCxAccessor": {
+                                                    "renderingLargeCx": "NOT_SHOW",
+                                                    "badgeType": "PRIME",
+                                                    "renderingSmallCx": "NOT_SHOW"
+                                                }
+                                            }
+                                        ],
+                                        "group": "badging"
+                                    },
+                                    {
+                                        "variant": "DEFAULT",
+                                        "subType": "",
+                                        "type": "DELIVERY",
+                                        "messageData": [
+                                            {
+                                                "unifiedFragmentLinks": {
+                                                    "links": [
+                                                        {
+                                                            "startFragment": "DeliveryPrice",
+                                                            "endFragment": "DeliveryType",
+                                                            "link": {
+                                                                "url": "/gp/help/customer/display.html?nodeId=GZXW7X6AKTHNUP6H"
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "shippingCost": {
+                                                    "value": {
+                                                        "amount": "0.0",
+                                                        "convertedFrom": {
+                                                            "amount": "0.0",
+                                                            "currencyCode": "USD"
+                                                        },
+                                                        "currencyCode": "USD"
+                                                    }
+                                                },
+                                                "deliveryType": "DELIVERY",
+                                                "promise": {
+                                                    "promiseId": "6ac45dc6-3a06-48fd-abe1-52bf347d620a",
+                                                    "deliveryDateValueOrRange": {
+                                                        "deliveryDateRange": {
+                                                            "min": {
+                                                                "dateTime": "2023-11-22T04:00:00.000Z",
+                                                                "zoneId": "US/Pacific"
+                                                            },
+                                                            "max": {
+                                                                "dateTime": "2023-11-22T04:00:00.000Z",
+                                                                "zoneId": "US/Pacific"
+                                                            }
+                                                        }
+                                                    },
+                                                    "deliveryOptionId": "5",
+                                                    "deliveryDateGranularity": "DAY"
+                                                },
+                                                "deliveryBenefitProgramId": "cfs",
+                                                "key": "DELIVERY"
+                                            }
+                                        ],
+                                        "group": "primaryDeliveryMessage"
+                                    },
+                                    {
+                                        "variant": "DEFAULT",
+                                        "subType": "",
+                                        "type": "DELIVERY",
+                                        "messageData": [
+                                            {
+                                                "unifiedFragmentLinks": {
+                                                    "links": []
+                                                },
+                                                "shippingCost": {
+                                                    "value": {
+                                                        "amount": "10.4",
+                                                        "convertedFrom": {
+                                                            "amount": "10.4",
+                                                            "currencyCode": "USD"
+                                                        },
+                                                        "currencyCode": "USD"
+                                                    }
+                                                },
+                                                "deliveryType": "DELIVERY",
+                                                "promise": {
+                                                    "promiseId": "4326c7a3-de64-4090-b059-3ca0421e4e53",
+                                                    "deliveryDateValueOrRange": {
+                                                        "deliveryDateRange": {
+                                                            "min": {
+                                                                "dateTime": "2023-11-21T04:00:00.000Z",
+                                                                "zoneId": "US/Pacific"
+                                                            },
+                                                            "max": {
+                                                                "dateTime": "2023-11-21T04:00:00.000Z",
+                                                                "zoneId": "US/Pacific"
+                                                            }
+                                                        }
+                                                    },
+                                                    "cutoff": {
+                                                        "dateTime": "2023-11-16T18:30:00.000Z",
+                                                        "zoneId": "US/Pacific"
+                                                    },
+                                                    "deliveryOptionId": "1",
+                                                    "deliveryDateGranularity": "DAY"
+                                                },
+                                                "deliveryBenefitProgramId": "dame_deliverable",
+                                                "key": "DELIVERY"
+                                            }
+                                        ],
+                                        "group": "secondaryDeliveryMessage"
+                                    }
+                                ]
+                            }
+                        },
+                        "price": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/price",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "<redacted>",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-amzn-metrics-id": "fasttrack_clickstream_price:9b26582d-28e3-35f2-8408-a38630167f6a",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C",
+                                "x-api-exp-data": "A2I_CONSUMABLES_DISABLE_PPU_FOR_VIRTUAL_BUNDLES_LAUNCH_772695:T1,IPA_IMPOSITIONS_MASTER_403327:T1,DP_OFFERS_PRICE_GOOGLE_PLAY_SUPPRESSION_377310:C"
+                            },
+                            "entity": {
+                                "priceToPay": {
+                                    "moneyValueOrRange": {
+                                        "value": {
+                                            "amount": "39.99",
+                                            "convertedFrom": {
+                                                "amount": "39.99",
+                                                "currencyCode": "USD"
+                                            },
+                                            "currencyCode": "USD"
+                                        }
+                                    },
+                                    "impositions": [],
+                                    "label": "Price:",
+                                    "priceMessage": {}
+                                }
+                            }
+                        },
+                        "quantityPricingTable": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/quantity-pricing-table",
+                                "types": [
+                                    "<redacted>",
+                                    "<redacted>",
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "error/v1",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C"
+                            },
+                            "entity": {
+                                "code": "403.1",
+                                "details": {
+                                    "message": "You do not have authorization for the requested resource.",
+                                    "url": "<redacted>"
+                                },
+                                "encryptedInternalInfo": "YfJu/O1ZqyzjP1BTVjxhjc1aep/D4vLCorohsRyyyBSByrM51qTLy/1ckmnak/3gorrVNFFQFO+ivQrEID+4UMwMWefMCgheSQXDq76FeA3AYCl6veXmDstmtSTQiDLbHdzNb8CBz3eS6Mrz2DtvALI93Mr/2FyINyG8PaTerSfe7Bi9TfcWBrXCy+HmtY82YBWWbV0/iVIG2qlxwE6gl07/YjWe0EIA3QH7S5CmP5pBpYzgRnjMOySi0gFA0pGcwkceRdaRxDyL1oZFaOCP/ItDVA3wkkRN3sZAQj3EFeOcrC//2hdTIks3SkAACIMbvyOQqSm25bja6DR3BB1pEpp4QxBugiNx+duzvU6JavkGe2Q5xrNXyRMX2ecm3kzrmO5LNuVtIH2HlqRoehLwCrtg9maX4U/gI69Wh35f9v10Bp5kubGzV8hRjgYXjYq+Jfr4vIB4oyKV8Z2uld/NmiHA4ny8TNGA3FeQ8nkS+9pt2WwGJ+pVTxihrz1/qmOd/Hd1GqaJloQJxF2evRPB92uryGAxUPq28is2As/7UkfEKxGa5CC5UEQTz0P2ZnORCP8c7ZGylQFTQo9nTwd46dwavC/WoHwgxfXpW0lFC+p83zDBSYk15qkMLwYoJ9ye03w/8q71k3LN4xCBa3lefNGfqPa8eYYqxlazD81RrxR60rc21LE1O2wwXnlMq5WX",
+                                "status": 403
+                            }
+                        },
+                        "dealBadge": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/deal-badge",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C",
+                                "x-api-exp-data": "SEARCH_TAGGING_RERANK_PROMOTION_LIST_590537:C,A2I_CRAZY_PROMOTIONS_ALM_DATAPATH_PDO_694364:C,F3_ISM_PROMOTIONS_DATAPATH_MIGRATION_689707:C,OFFERSERVICE_OBL_GKP_718893:T1,DP_PROMO_REMOVE_APLW_GATE_736343:C,DEAL_BADGE_PDO_INTEGRATION_775749:T1,BPX_EBOOKS_COUPONS_738139:C"
+                            }
+                        },
+                        "promotionsUnified": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/promotions-unified",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "<redacted>",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C",
+                                "x-api-exp-data": "SEARCH_TAGGING_RERANK_PROMOTION_LIST_590537:C,A2I_CRAZY_PROMOTIONS_ALM_DATAPATH_PDO_694364:C,F3_ISM_PROMOTIONS_DATAPATH_MIGRATION_689707:C,OFFERSERVICE_OBL_GKP_718893:T1,DP_PROMO_REMOVE_APLW_GATE_736343:C,BPX_EBOOKS_COUPONS_738139:C"
+                            },
+                            "entity": {
+                                "summary": {
+                                    "mediumMessage": {
+                                        "message": {
+                                            "fragments": [
+                                                {
+                                                    "text": " Apply 50% coupon "
+                                                },
+                                                {
+                                                    "link": {
+                                                        "content": {
+                                                            "text": "Shop items"
+                                                        },
+                                                        "url": "/promotion/psp/A1B0FLKXSSF0AJ?ref=clp_external&redirectAsin=B0B7J12Z2W&redirectMerchantId=A6V1WTRKQL3YL&ref=cxcw_clp_A1B0FLKXSSF0AJ"
+                                                    }
+                                                },
+                                                {
+                                                    "text": "|"
+                                                },
+                                                {
+                                                    "link": {
+                                                        "content": {
+                                                            "text": "Terms"
+                                                        },
+                                                        "url": "/promotion/details/popup/A1B0FLKXSSF0AJ?ref=cxcw_bxgx_tc_A1B0FLKXSSF0AJ"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "label": {
+                                            "text": "Coupon:"
+                                        }
+                                    },
+                                    "base": {
+                                        "displayStyles": [
+                                            "CLICK_TO_CLAIM",
+                                            "ATF_INLINE_BOX",
+                                            "PRICE_BLOCK",
+                                            "UNKNOWN",
+                                            "GREEN_TEXT",
+                                            "COUPON"
+                                        ]
+                                    },
+                                    "shortMessage": {
+                                        "message": {
+                                            "text": " with coupon"
+                                        },
+                                        "label": {
+                                            "text": "Save 50%"
+                                        }
+                                    },
+                                    "unifiedIds": [
+                                        "/promo/A1B0FLKXSSF0AJ"
+                                    ],
+                                    "accessConfirmationShortMessage": {
+                                        "text": "50% coupon applied at checkout"
+                                    }
+                                },
+                                "displayablePromotions": [
+                                    {
+                                        "claimAjaxPostLink": {
+                                            "data": {
+                                                "displayString": "Clip Coupon",
+                                                "failureText": "An unknown error has occured. Please try again later.",
+                                                "parameters": [
+                                                    {
+                                                        "value": "B0B7J12Z2W",
+                                                        "name": "asin"
+                                                    },
+                                                    {
+                                                        "value": "A1B0FLKXSSF0AJ",
+                                                        "name": "promotionId"
+                                                    },
+                                                    {
+                                                        "value": "A1B0FLKXSSF0AJ",
+                                                        "name": "encryptedPromotionId"
+                                                    },
+                                                    {
+                                                        "value": "G8n7OE8pSWGYbw4wmcA5HpSdgu1ZbgAhV2GMoD%2BUNIsU7Wp4ri%2F4F%2FqW920vDnaPhzF9LjyJuIZmNpOnP8xdnEoHLGrRqE7FLSfQfP%2FIF4HDNrMseWKo%2BJlk0baI42Ez4Mgr64mfAhUGf4%2BHp9Bym%2BMVXRPp%2FpPStgmd5TWAa4W0oAr872JUjuWZFIzgvBM9",
+                                                        "name": "offerListingId"
+                                                    },
+                                                    {
+                                                        "value": "01-503E-H685",
+                                                        "name": "sku"
+                                                    },
+                                                    {
+                                                        "value": "g8xJ4RN3WD3rAffGu4X7eX7pH52xCEdBbNX6bCjSmzSqAAAAAQAAAABlVbTOcmF3AAAAAGfaM7%2Fie4v1Eo%2F7XVH9gA%3D%3D",
+                                                        "name": "anti-csrftoken-a2z"
+                                                    },
+                                                    {
+                                                        "value": "1",
+                                                        "name": "useRedirectOnSuccess"
+                                                    }
+                                                ],
+                                                "successText": "<b>Coupon:</b> 50% coupon applied at checkout. <a href=\"/promotion/details/popup/A1B0FLKXSSF0AJ\">Terms</a>"
+                                            },
+                                            "url": "/promotion/signin/redeem"
+                                        },
+                                        "accessConfirmationMediumMessage": {
+                                            "fragments": [
+                                                {
+                                                    "text": "50% coupon applied to one item per order at checkout "
+                                                },
+                                                {
+                                                    "link": {
+                                                        "content": {
+                                                            "text": "Shop items"
+                                                        },
+                                                        "url": "/promotion/psp/A1B0FLKXSSF0AJ?ref=clp_external&redirectAsin=B0B7J12Z2W&redirectMerchantId=A6V1WTRKQL3YL&ref=cxcw_clp_A1B0FLKXSSF0AJ"
+                                                    }
+                                                },
+                                                {
+                                                    "text": "|"
+                                                },
+                                                {
+                                                    "link": {
+                                                        "content": {
+                                                            "text": "Terms"
+                                                        },
+                                                        "url": "/promotion/details/popup/A1B0FLKXSSF0AJ?ref=cxcw_bxgx_tc_A1B0FLKXSSF0AJ"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "base": {
+                                            "displayStyles": [
+                                                "CLICK_TO_CLAIM",
+                                                "ATF_INLINE_BOX",
+                                                "PRICE_BLOCK",
+                                                "UNKNOWN",
+                                                "GREEN_TEXT",
+                                                "COUPON"
+                                            ]
+                                        },
+                                        "mediumMessage": {
+                                            "message": {
+                                                "fragments": [
+                                                    {
+                                                        "text": " Apply 50% coupon "
+                                                    },
+                                                    {
+                                                        "link": {
+                                                            "content": {
+                                                                "text": "Shop items"
+                                                            },
+                                                            "url": "/promotion/psp/A1B0FLKXSSF0AJ?ref=clp_external&redirectAsin=B0B7J12Z2W&redirectMerchantId=A6V1WTRKQL3YL&ref=cxcw_clp_A1B0FLKXSSF0AJ"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "|"
+                                                    },
+                                                    {
+                                                        "link": {
+                                                            "content": {
+                                                                "text": "Terms"
+                                                            },
+                                                            "url": "/promotion/details/popup/A1B0FLKXSSF0AJ?ref=cxcw_bxgx_tc_A1B0FLKXSSF0AJ"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "label": {
+                                                "text": "Coupon:"
+                                            }
+                                        },
+                                        "unifiedId": "/promo/A1B0FLKXSSF0AJ",
+                                        "associatedPaymentInstruments": [],
+                                        "longMessage": {
+                                            "message": {
+                                                "fragments": [
+                                                    {
+                                                        "link": {
+                                                            "content": {
+                                                                "text": "Clip this coupon"
+                                                            },
+                                                            "url": "/promotion/psp/A1B0FLKXSSF0AJ?ref=clp_external&redirectAsin=B0B7J12Z2W&redirectMerchantId=A6V1WTRKQL3YL&ref=sopp_clp_A1B0FLKXSSF0AJ"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": " to save 50% on this product when you buy from MSTHOO Store. "
+                                                    },
+                                                    {
+                                                        "link": {
+                                                            "content": {
+                                                                "text": "Here's how"
+                                                            },
+                                                            "url": "/promotion/details/popup/A1B0FLKXSSF0AJ"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": " (restrictions apply)"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "combinedSavings": {
+                                            "unifiedIdsThatCombine": [],
+                                            "percentageForDisplay": {
+                                                "displayString": "50%",
+                                                "value": 50
+                                            },
+                                            "percentageBasedSavings": 50,
+                                            "savingsAmount": {
+                                                "amount": "20.00",
+                                                "convertedFrom": {
+                                                    "amount": "20.00",
+                                                    "currencyCode": "USD"
+                                                },
+                                                "currencyCode": "USD"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "claimAjaxPostLink": {
+                                            "data": {
+                                                "displayString": "Redeem",
+                                                "failureText": "An unknown error has occured. Please try again later.",
+                                                "parameters": [
+                                                    {
+                                                        "value": "B0B7J12Z2W",
+                                                        "name": "asin"
+                                                    },
+                                                    {
+                                                        "value": "AIVWL92VWWJDZ",
+                                                        "name": "promotionId"
+                                                    },
+                                                    {
+                                                        "value": "AIVWL92VWWJDZ",
+                                                        "name": "encryptedPromotionId"
+                                                    },
+                                                    {
+                                                        "value": "G8n7OE8pSWGYbw4wmcA5HpSdgu1ZbgAhV2GMoD%2BUNIsU7Wp4ri%2F4F%2FqW920vDnaPhzF9LjyJuIZmNpOnP8xdnEoHLGrRqE7FLSfQfP%2FIF4HDNrMseWKo%2BJlk0baI42Ez4Mgr64mfAhUGf4%2BHp9Bym%2BMVXRPp%2FpPStgmd5TWAa4W0oAr872JUjuWZFIzgvBM9",
+                                                        "name": "offerListingId"
+                                                    },
+                                                    {
+                                                        "value": "01-503E-H685",
+                                                        "name": "sku"
+                                                    },
+                                                    {
+                                                        "value": "g8xJ4RN3WD3rAffGu4X7eX7pH52xCEdBbNX6bCjSmzSqAAAAAQAAAABlVbTOcmF3AAAAAGfaM7%2Fie4v1Eo%2F7XVH9gA%3D%3D",
+                                                        "name": "anti-csrftoken-a2z"
+                                                    }
+                                                ],
+                                                "successText": "Redeemed"
+                                            },
+                                            "url": "/promotion/signin/redeem"
+                                        },
+                                        "accessConfirmationMediumMessage": {
+                                            "fragments": [
+                                                {
+                                                    "text": "applied at checkout "
+                                                },
+                                                {
+                                                    "link": {
+                                                        "content": {
+                                                            "text": "Terms"
+                                                        },
+                                                        "url": "/promotion/details/popup/AIVWL92VWWJDZ?ref=cxcw_bxgx_tc_AIVWL92VWWJDZ"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "base": {
+                                            "displayStyles": [
+                                                "CLICK_TO_CLAIM",
+                                                "ATF_INLINE_BOX",
+                                                "PRICE_BLOCK",
+                                                "UNKNOWN"
+                                            ]
+                                        },
+                                        "mediumMessage": {
+                                            "message": {
+                                                "fragments": [
+                                                    {
+                                                        "text": "  promo code: ZYN9JU7J "
+                                                    },
+                                                    {
+                                                        "link": {
+                                                            "content": {
+                                                                "text": "Terms"
+                                                            },
+                                                            "url": "/promotion/details/popup/AIVWL92VWWJDZ?ref=cxcw_bxgx_tc_AIVWL92VWWJDZ"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "label": {
+                                                "text": "Save 13%"
+                                            }
+                                        },
+                                        "unifiedId": "/promo/AIVWL92VWWJDZ",
+                                        "associatedPaymentInstruments": [],
+                                        "longMessage": {
+                                            "message": {
+                                                "fragments": [
+                                                    {
+                                                        "text": "Save 13% each on Qualifying items offered by MSTHOO Store when you purchase 1 or more. Enter code ZYN9JU7J at checkout. "
+                                                    },
+                                                    {
+                                                        "link": {
+                                                            "content": {
+                                                                "text": "Here's how"
+                                                            },
+                                                            "url": "/promotion/details/popup/AIVWL92VWWJDZ"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": " (restrictions apply)"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "combinedSavings": {
+                                            "unifiedIdsThatCombine": [],
+                                            "percentageForDisplay": {
+                                                "displayString": "13%",
+                                                "value": 13
+                                            },
+                                            "percentageBasedSavings": 13,
+                                            "savingsAmount": {
+                                                "amount": "5.20",
+                                                "convertedFrom": {
+                                                    "amount": "5.20",
+                                                    "currencyCode": "USD"
+                                                },
+                                                "currencyCode": "USD"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "dealDetails": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/deal-details",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C"
+                            }
+                        },
+                        "businessDiscountsSummary": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/business-discounts-summary",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "error/v1",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C"
+                            },
+                            "entity": {
+                                "code": "403.1",
+                                "details": {
+                                    "message": "You do not have authorization for the requested resource.",
+                                    "url": "<redacted>"
+                                },
+                                "encryptedInternalInfo": "BAG8Q+gGVLX5THRuUFmqP2Rczs64iEjrmr03fYNIMdVV4hfWOzS4vLanAL9dGKfdYqg9C2M38aZ5XnNVBffZVHMiaPuHlYSfOaOPK+kqI2ZBOdmt+UmSOAi1t64/oXzKUAmh4x6Pi9k14RHiJfIMyyIih5IcgE8741rkhjXWbd5dRe+o9Qeudk97H4bgzq9SQmOb4SeMkYwuItjppoTf+Sd6r83dCs8tDU0yXaweiVP99koLblY3Xu1+QAqOYM3CQcq41IVVZJGuVlA8f1yTYfvdK+O5KmJzY1FJMZSxiLajEFgOtTqzUwYxtI8OKus6FocMeU2YHuI+v1QQzHSRpjWMBglPtxHbZYSB5DNZ5ffJcG6JEl5CQ2/tH8Io4PrVjH2hZkHvOPapPDzhieZMN+S+7vE5t2nO0ze9wIeqFVwPFRBKHfJ15ATBuVrJwmSLUs8DdHpCwdrmOOumGjeLtwSdBsnLJyol6oXoC5mNgZGTUImxYAkNcZLtV0vdZmoa5OqKcWMxCjCkBrvOA9SxHv2M5L9xLON4VccWNdpcNwi4/IJ7jix5BpfhA8I8lOUPQdjjfL1ZTTWj+u7HhNjIhgN4paL8K5GU3EchLOxHZrA4fdeW0+uduPYAIMmiAERWgMeAWHrErlRcEiAQHS57m4CPEfYqLXH9LmWWa25suK9iIpffkfJDx3m+YYsi7ES3",
+                                "status": 403
+                            }
+                        },
+                        "availability": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/availability",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "<redacted>",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-amzn-metrics-id": "fasttrack_clickstream_avail:63502207-0792-375a-866d-fe9fc7918da7",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C"
+                            },
+                            "entity": {
+                                "primaryMessage": "In Stock",
+                                "type": "IN_STOCK"
+                            }
+                        },
+                        "dealCustomerStatus": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/deal-customer-status",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "error/v1",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C"
+                            },
+                            "entity": {
+                                "code": "403.1",
+                                "details": {
+                                    "message": "You do not have authorization for the requested resource.",
+                                    "url": "<redacted>"
+                                },
+                                "encryptedInternalInfo": "JS1Qx3QYBoDOH619OOoCKKXCv/rhvWbjovodZavQgH3FSsaT73BL3hVK6zhKyLlfPYC9Hfr7VyGk/cM22GU87afKA+Mf4RVVzNPiYHtYUrL6hBrMkDbqqMwS6cfrBj5kERwPUhumBA6Ibnl838iNo/iwUOpW2nnnuhOyJME/hKIt7JVXiZl+2ZIYj+WnbBrRHlP+k5gqMHlo06IV1GFuoYn2KKavdI77ZdeCaOFKidysxDvTQM+ZmvuejZr1hL9w0iJlGXC470TSBfEjSzk/kYkRBfKS2sB4OuigeV+5DfnIW7p0DVo03AJB4xAbh0WBB5TUicwcSDX5OD4jtVJ9oq1pq6asbnFTehN1pPNVSMdqlqoLjuhIHiN7eeoX+sMQ+R71e9n3b461DpGwF3VfHKKqmIglTRZBvk+jgtfTFFgfWJoCwP061voKO2xpULl/wuw04yvAV4oOiSgY4XwQI6yefYEfR0qhLrYNL58GX4eOalK/fSxUb2wvfkwYo/wlIzrxQl/d1owBdOEqcmP/QZq4xHTFv4dSPnUKj/kg3TPueTkVkxwPi40PnJZVYEO34PHqCQI4EjkVHke1u3zr3rDl691WsqqdwtrMISNjVWddYzy2ms2ow/ZSOog1poBGPI3mzFiiNGUcfLorT9BElqRIgp+EB0nFO6ooajnlils=",
+                                "status": 403
+                            }
+                        },
+                        "callToAction": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/call-to-action",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "<redacted>",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-amzn-metrics-id": "fasttrack_clickstream_cta:a83a87e6-b956-315d-8f40-bb6342bd41af",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C",
+                                "x-api-exp-data": "ALM_CUSTOMIZATION_800246:C,DSV_IN_SUPPRESS_ATC_732875:C,READ_NOW_CTA_DATAPATH_394825:T1"
+                            },
+                            "entity": {
+                                "checkout": {
+                                    "data": {
+                                        "displayString": "Buy Now",
+                                        "parameters": [
+                                            {
+                                                "value": "add-new",
+                                                "name": "addressId"
+                                            },
+                                            {
+                                                "value": "G8n7OE8pSWGYbw4wmcA5HpSdgu1ZbgAhV2GMoD%2BUNIsU7Wp4ri%2F4F%2FqW920vDnaPhzF9LjyJuIZmNpOnP8xdnEoHLGrRqE7FLSfQfP%2FIF4HDNrMseWKo%2BJlk0baI42Ez4Mgr64mfAhUGf4%2BHp9Bym%2BMVXRPp%2FpPStgmd5TWAa4W0oAr872JUjuWZFIzgvBM9",
+                                                "name": "offerListingId"
+                                            },
+                                            {
+                                                "value": "retailwebsite",
+                                                "name": "checkoutClientId"
+                                            }
+                                        ]
+                                    },
+                                    "url": "/gp/checkoutportal/enter-checkout.html"
+                                },
+                                "addToCart": {
+                                    "data": {
+                                        "displayString": "Add to Cart",
+                                        "parameters": [
+                                            {
+                                                "value": "B0B7J12Z2W",
+                                                "name": "items[0.base][asin]"
+                                            },
+                                            {
+                                                "value": "G8n7OE8pSWGYbw4wmcA5HpSdgu1ZbgAhV2GMoD%2BUNIsU7Wp4ri%2F4F%2FqW920vDnaPhzF9LjyJuIZmNpOnP8xdnEoHLGrRqE7FLSfQfP%2FIF4HDNrMseWKo%2BJlk0baI42Ez4Mgr64mfAhUGf4%2BHp9Bym%2BMVXRPp%2FpPStgmd5TWAa4W0oAr872JUjuWZFIzgvBM9",
+                                                "name": "items[0.base][offerListingId]"
+                                            },
+                                            {
+                                                "value": "G8n7OE8pSWGYbw4wmcA5HpSdgu1ZbgAhV2GMoD%2BUNIsU7Wp4ri%2F4F%2FqW920vDnaPhzF9LjyJuIZmNpOnP8xdnEoHLGrRqE7FLSfQfP%2FIF4HDNrMseWKo%2BJlk0baI42Ez4Mgr64mfAhUGf4%2BHp9Bym%2BMVXRPp%2FpPStgmd5TWAa4W0oAr872JUjuWZFIzgvBM9",
+                                                "name": "offerListingId"
+                                            },
+                                            {
+                                                "value": "1",
+                                                "name": "signInToHUC"
+                                            },
+                                            {
+                                                "value": "true",
+                                                "name": "canAddToCart"
+                                            }
+                                        ],
+                                        "type": "DEFAULT"
+                                    },
+                                    "url": "/gp/add-to-cart/html"
+                                }
+                            }
+                        },
+                        "quantity": {
+                            "resource": {
+                                "url": "<redacted>/buying-options/maIPsjBQSyrR18zpM_UKX_6xRDSbFFRNpOzF07le_ag%3D/quantity",
+                                "types": [
+                                    "<redacted>"
+                                ]
+                            },
+                            "type": "<redacted>",
+                            "metadata": {
+                                "x-amzn-metrics-id": "INTER_RANKED:6a681f35-f033-3b8b-869e-90c96e737631",
+                                "x-amzn-metrics-id": "MBOS:08e91151-1a23-38b8-ac5d-7e283f2c7c28",
+                                "x-amzn-metrics-id": "fasttrack_clickstream_quantity:96aba328-c31e-31e3-9332-1dd26563b939",
+                                "x-api-exp-data": "OFFERSX_MBOS_OPTIMIZE_ELIGIBILITY_714403:C,AMAZONAPI_662943:T1,WWGS_GSX_ENABLE_ALM_OFFER_TO_BO_761387:C,MUSIC_RESO_V2_PRICE_PROMO_PRIME_DAY_151374:T3,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,DSB_WDG_TO_GL_MIGRATION_689600:T1,DIGITAL_MUSIC_SUBSCRIPTION_BUYING_OPTION_LAUNCHED_736608:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1,SEARCH_OFFERSX_CAPTIONS_V2_LAUNCH_653316:C,OFFERSX_DP_CACHED_CENTRALIZED_PREELIGIBILITY_651431:T1,ALM_CUSTOMIZATION_800246:C,S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,F3_BOPIS_UFG_MATCH_KEY_483216:T1,F3_UFGPP_BUYING_OPTION_SUPPRESSION_577305:T1,F3_BOPIS_SELECTED_PICKUP_OFFER_DISCOVERY_512379:T1,WWGS_GSX_ONLINE_GROCERY_STORE_BOPIS_ENABLE_NEARBY_PICKUP_770558:C"
+                            },
+                            "entity": {
+                                "isMaxQuantityRestricted": false,
+                                "minOrderQuantity": 1,
+                                "maxOrderQuantity": 30
+                            }
+                        },
+                        "type": "NEW"
+                    }
+                ],
+                "productImages": {
+                    "resource": {
+                        "url": "<redacted>/product-images",
+                        "types": [
+                            "<redacted>"
+                        ]
+                    },
+                    "type": "<redacted>",
+                    "metadata": {
+                        "x-api-exp-data": "ALM_CUSTOMIZATION_800246:C"
+                    },
+                    "entity": {
+                        "images": [
+                            {
+                                "lowRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "41NSw9v9qkL",
+                                    "width": 500,
+                                    "height": 500
+                                },
+                                "hiRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "61UlDhqj22L",
+                                    "width": 1660,
+                                    "height": 1660
+                                },
+                                "variant": "MAIN"
+                            },
+                            {
+                                "lowRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "51bCTFjtvJL",
+                                    "width": 500,
+                                    "height": 500
+                                },
+                                "hiRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "71jnJE4YywL",
+                                    "width": 1660,
+                                    "height": 1660
+                                },
+                                "variant": "PT01"
+                            },
+                            {
+                                "lowRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "51Qe+T5ld5L",
+                                    "width": 500,
+                                    "height": 500
+                                },
+                                "hiRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "71Y6UOGrBLL",
+                                    "width": 1660,
+                                    "height": 1660
+                                },
+                                "variant": "PT02"
+                            },
+                            {
+                                "lowRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "513PWouGJJL",
+                                    "width": 500,
+                                    "height": 500
+                                },
+                                "hiRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "71nFEbyTaOL",
+                                    "width": 1660,
+                                    "height": 1660
+                                },
+                                "variant": "PT03"
+                            },
+                            {
+                                "lowRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "51SufUwKAxL",
+                                    "width": 500,
+                                    "height": 500
+                                },
+                                "hiRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "71kol9d35mL",
+                                    "width": 1280,
+                                    "height": 1280
+                                },
+                                "variant": "PT04"
+                            },
+                            {
+                                "lowRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "51KdwsC3MSL",
+                                    "width": 500,
+                                    "height": 500
+                                },
+                                "hiRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "71BB9+jzr2L",
+                                    "width": 1660,
+                                    "height": 1660
+                                },
+                                "variant": "PT05"
+                            },
+                            {
+                                "lowRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "519QuwY0SkL",
+                                    "width": 500,
+                                    "height": 500
+                                },
+                                "hiRes": {
+                                    "extension": "jpg",
+                                    "physicalId": "71J2K2v96GL",
+                                    "width": 1280,
+                                    "height": 1280
+                                },
+                                "variant": "PT06"
+                            }
+                        ],
+                        "altText": "MSTHOO Open Ear Headphones, 30H Playtime with Wireless Charging Case, Noise-Cancellation Mic for Clear Calls, IPX7 Waterproof Wireless Earbuds with Earhooks for Running, Walking and Workouts"
+                    }
+                },
+                "featureBullets": {
+                    "resource": {
+                        "url": "<redacted>/feature-bullets",
+                        "types": [
+                            "<redacted>"
+                        ]
+                    },
+                    "type": "<redacted>",
+                    "metadata": {
+                        "x-api-exp-data": "S3P_PRICING_APFOD_MIGRATION_740702:T2,B2B_RD_BOF_752567:C,FMA_PROMOTIONS_PLUGIN_LATENCY_OPTIMIZATION_790793:T1,OFFERSERVICE_OBL_GKP_718893:T1,OFFERSX_FOS_DEPRECATE_ONLYRANKONE_FILTER_802986:T1,OFFERSX_ENABLE_SKYDEN_CART_CALL_743030:T1"
+                    },
+                    "entity": {
+                        "featureBullets": [
+                            "【Open Ear Clip Bluetooth Headphones, Secure and Comfortable Fit】Unlike traditional headphones, they feature a completely open design that rests gently on your ears without entering your ear canal. This reduces stress and the risk of hearing loss after extended wear. Additionally, the flexible silicone ear hooks and ergonomic design ensure a stable and comfortable fit, making them perfect for outdoor activities such as hiking and running.",
+                            "【Powerful Stereo Sound & HIFI Clear Calls】These earphones feature dual 16MM vibrating diaphragm speaker drivers that maintain clear and balanced audio at any volume. The high compliance diaphragm delivers a rich bass range and enhances sound quality while minimizing distortion. Additionally, the built-in mic system is designed to prioritize your voice and reduce background noise, making calls easier and clearer to hear.",
+                            "【Hear Your Surroundings & More security】The headphones allow you to immerse yourself in your music while remaining aware of your surroundings. Whether you're cycling, walking, running, working out, or driving, you can stay alert and aware of changes in your environment, making them a safe and practical choice for any activity. With these headphones, you can enjoy your music without compromising your safety or situational awareness.",
+                            "【30 Hours Playtime with Charging Case】80 hours of standby time and 6 hours of playback on a single charge, or 30 hours of total playback with the charging case. The charging case supports wireless charging or USB-C fast charge. It is compact and easy to carry, making it ideal for daily use and travel.",
+                            "【Low Latency Experience & IPX7 waterproof】Bluetooth earbuds feature the latest Bluetooth 5.2 technology, you can enjoy a low-latency listening experience with audio and video perfectly synced without any delay. With an IPX7 waterproof rating, these headphones can withstand sweat, rain, providing durable and reliable performance."
+                        ]
+                    }
+                },
+                "title": {
+                    "resource": {
+                        "url": "<redacted>/title",
+                        "types": [
+                            "<redacted>",
+                            "<redacted>"
+                        ]
+                    },
+                    "type": "<redacted>",
+                    "entity": {
+                        "shortDisplayString": "MSTHOO Earbuds with 30H Playtime, IPX7 Waterproof",
+                        "displayString": "MSTHOO Open Ear Headphones, 30H Playtime with Wireless Charging Case, Noise-Cancellation Mic for Clear Calls, IPX7 Waterproof Wireless Earbuds with Earhooks for Running, Walking and Workouts"
+                    }
+                },
+                "customerReviewsSummary": {
+                    "resource": {
+                        "url": "<redacted>/customer-reviews-summary",
+                        "types": [
+                            "<redacted>"
+                        ]
+                    },
+                    "type": "<redacted>",
+                    "metadata": {
+                        "x-amzn-metrics-id": "fasttrack_logging_crs:543f386b-7d53-387d-9349-59c91a7a64e1"
+                    },
+                    "entity": {
+                        "count": {
+                            "displayString": "1,949",
+                            "value": 1949
+                        },
+                        "histogram": {
+                            "oneStar": {
+                                "percentageDisplayString": "9%",
+                                "percentage": 9,
+                                "labelDisplayString": "1 star"
+                            },
+                            "twoStar": {
+                                "percentageDisplayString": "6%",
+                                "percentage": 6,
+                                "labelDisplayString": "2 star"
+                            },
+                            "fourStar": {
+                                "percentageDisplayString": "16%",
+                                "percentage": 16,
+                                "labelDisplayString": "4 star"
+                            },
+                            "threeStar": {
+                                "percentageDisplayString": "9%",
+                                "percentage": 9,
+                                "labelDisplayString": "3 star"
+                            },
+                            "fiveStar": {
+                                "percentageDisplayString": "59%",
+                                "percentage": 59,
+                                "labelDisplayString": "5 star"
+                            }
+                        },
+                        "rating": {
+                            "fullStarCount": 4,
+                            "shortDisplayString": "4.1",
+                            "hasHalfStar": false,
+                            "displayString": "4.1 out of 5 stars",
+                            "value": 4.1
+                        }
+                    }
+                },
+                "links": {
+                    "resource": {
+                        "url": "<redacted>/links",
+                        "types": [
+                            "<redacted>",
+                            "<redacted>"
+                        ]
+                    },
+                    "type": "<redacted>",
+                    "entity": {
+                        "viewOnAmazon": {
+                            "url": "/MSTHOO-Headphones-Bluetooth-Reduction-Waterproof/dp/B0B7J12Z2W"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
